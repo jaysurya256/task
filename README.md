@@ -1,2 +1,1 @@
-# task
-Training
+Welcome to Employee Wage Computation
